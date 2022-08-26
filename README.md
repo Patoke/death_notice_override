@@ -2,7 +2,7 @@
 Overrides the formatting function used in the gathering for death notice icons and changes the extension from .svg to .png
 
 ## Why?
-This cannot be done thru css or xml from what i tested since the image is gathered inside of the csgo code
+Changing the images from being gathered using .png instead of .svg cannot be done thru css or xml from what I tested since the image is gathered inside of the csgo code
 So I just reversed the function that formatted the string and I changed the extension to .png lol
 
 ## How to use this
